@@ -4,6 +4,7 @@ using namespace std;
 
 int main(){
 int a,b,c,d;
+cout << "hello";
 
 cout<<"nhap 4 so: ";
 cin>>a>>b>>c>>d;
